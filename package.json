@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "name": "colorful-test-repo",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmalecki/colorful-test-repo.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "node colorful.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
