@@ -1,3 +1,5 @@
+console.log(require('util').inspect(process.env, false, 1, true));
+
 process.stdout.write('\033[32m');
 var N = 1024,
     i = 0;
